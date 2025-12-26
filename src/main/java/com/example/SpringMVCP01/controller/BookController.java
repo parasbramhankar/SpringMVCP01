@@ -22,7 +22,6 @@ public class BookController {
         return "books";
     }
 
-
     /*
  WHY WE USE BOTH @GetMapping AND @PostMapping WITH SAME "/add-book" URL
 
